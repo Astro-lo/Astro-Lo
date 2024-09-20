@@ -1,10 +1,15 @@
 ◤-----------------------------------------------◥
- 				▶  Heya! I’m @Astrolo (｡･∀･)ﾉﾞ ◀
-						Pronouns: He/him
+
+ 	✿ Heya! I’m @Astrolo (｡･∀･)ﾉ ✿  
+  
+  -Pronouns: He/him
+  
   -I’m interested in Game Design 
+  
   -Currently learning gscript, python, Lua and C#
 
   -How to reach me!! ➡ linktr.ee/astro_lo
+  
  ◣----------------------------------------------◢
 
 <!---
