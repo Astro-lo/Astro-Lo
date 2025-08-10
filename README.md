@@ -4,9 +4,9 @@
   
   -Pronouns: He/him
   
-  -I’m interested in Game Design 
+  -Game Design student! 
   
-  -Currently learning gscript, python, Lua and C#
+  -Currently learning gdscript, python, Lua and C#
 
   -How to reach me!! ➡ linktr.ee/astro_lo
   
